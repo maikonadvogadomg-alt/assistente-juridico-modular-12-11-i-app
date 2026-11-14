@@ -1,0 +1,51 @@
+{
+  "name": "assistente-juridico-modular-12-11-i-teste-11140539",
+  "version": "1.1.0",
+  "description": "Assistente-Juridico-modular-12-11-I (teste 11140539)",
+  "author": "Maikon",
+  "private": true,
+  "main": "electron/main.cjs",
+  "portaDoPrograma": 7746,
+  "devDependencies": {
+    "electron": "33.2.1",
+    "electron-builder": "25.1.8"
+  },
+  "build": {
+    "appId": "com.maikonadvogadomgalt.assistentejuridicomodular1211i.nteste11140539.pc",
+    "productName": "Assistente-Juridico-modular-12-11-I (teste 11140539)",
+    "executableName": "assistente-juridico-modular-12-11-i-teste-11140539",
+    "directories": {
+      "output": "release"
+    },
+    "asar": false,
+    "files": [
+      "**/*",
+      "!android/**",
+      "!.github/**",
+      "!release/**",
+      "!exe/**",
+      "!node_modules/.cache/**",
+      "!*.zip",
+      "!.sk/**",
+      "!apk.config.json"
+    ],
+    "win": {
+      "target": [
+        "nsis",
+        "portable"
+      ],
+      "icon": "icons/icon-512.png"
+    },
+    "nsis": {
+      "oneClick": true,
+      "perMachine": false,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "Assistente-Juridico-modular-12-11-I (teste 11140539)",
+      "artifactName": "assistente-juridico-modular-12-11-i-teste-11140539-Instalar.exe"
+    },
+    "portable": {
+      "artifactName": "assistente-juridico-modular-12-11-i-teste-11140539-sem-instalar.exe"
+    }
+  }
+}
