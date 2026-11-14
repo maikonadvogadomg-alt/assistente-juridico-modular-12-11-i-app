@@ -1,13 +1,13 @@
 {
-  "id": "./app-assistente-juridico",
-  "name": "Assistente Jurídico",
-  "short_name": "Jurídico",
+  "id": "./app-assistente-juridico-modular-12",
+  "name": "Assistente-Juridico-modular-12-11-I",
+  "short_name": "Assistente-J",
   "description": "Assistente jurídico com IA: processar, editor com Word, conversa por voz, documentos e ferramentas.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#00ff00",
-  "theme_color": "#ffffff",
+  "theme_color": "#00ff00",
   "lang": "pt-BR",
   "icons": [
     {

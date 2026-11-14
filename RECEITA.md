@@ -1,6 +1,6 @@
 # 🧬 Receita para recriar: Meu Chat
 
-_Gerada sem IA, lendo 120 arquivo(s). Serve para remontar este app como HTML modular — com qualquer IA, um arquivo por vez._
+_Gerada sem IA, lendo 117 arquivo(s). Serve para remontar este app como HTML modular — com qualquer IA, um arquivo por vez._
 
 ## 1. O que é
 

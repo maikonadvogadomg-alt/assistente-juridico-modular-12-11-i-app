@@ -1,19 +1,19 @@
 # 📋 Plano do projeto: Assistente-Juridico-modular-12-11-I
 
-_Gerado em 12/11/2026, 18:15:19 — sem IA, lendo os arquivos._
+_Gerado em 14/11/2026, 02:39:00 — sem IA, lendo os arquivos._
 
 ## 📊 Visão geral
 | Item | Valor |
 |---|---|
-| Arquivos | 120 |
-| Linhas | 16.859 |
+| Arquivos | 117 |
+| Linhas | 16.055 |
 | Telas/páginas | 16 |
 | Rotas do backend | 0 |
 | Chamadas do app | 3 |
 | Tabelas do banco | 0 |
 | Variáveis de ambiente | 3 |
 
-**Linguagens:** JavaScript (61), Imagem (20), HTML (16), Markdown (6), JSON (4), Outros (4), CSS (3), Python (2), Imagem SVG (2), YAML (1), Ícone (1)
+**Linguagens:** JavaScript (61), Imagem (20), HTML (16), Markdown (5), Outros (4), CSS (3), JSON (3), Python (2), Imagem SVG (2), Ícone (1)
 
 ## 💡 O que fazer (em ordem)
 1. 🧹 Tirar a Replit de 11 arquivo(s) (🏗️ Preparar → Fazer tudo)
@@ -151,9 +151,6 @@ _Só os nomes. Os valores (chaves, senhas) nunca vão no código nem no GitHub._
 
 ## 🌳 Árvore de arquivos
 ```
-├─ 📁 .github/
-│  └─ 📁 workflows/
-│     └─ apk.yml
 ├─ 📁 css/
 │  └─ app.css
 ├─ 📁 ferramentas/
@@ -279,7 +276,6 @@ _Só os nomes. Os valores (chaves, senhas) nunca vão no código nem no GitHub._
 ├─ 📁 lib/
 │  ├─ jszip-LICENSE.md
 │  └─ jszip.min.js
-├─ apk.config.json
 ├─ favicon.ico
 ├─ hub.html
 ├─ hub.webmanifest
@@ -288,7 +284,6 @@ _Só os nomes. Os valores (chaves, senhas) nunca vão no código nem no GitHub._
 ├─ manifest.json
 ├─ per1.png
 ├─ PLANO.md
-├─ RECEITA.md
 ├─ service-worker.js
 └─ sw.js
 ```
